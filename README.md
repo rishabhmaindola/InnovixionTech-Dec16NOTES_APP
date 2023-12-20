@@ -1,6 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Innovixion Tech(Task 1)Online-Notes-Taking-App
+a simple to-do list
+application using JS frameworks and
+Database. Users should be able to
+add, edit, and delete tasks.
 
 ## Available Scripts
 

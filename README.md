@@ -4,6 +4,9 @@ application using JS frameworks and
 Database. Users should be able to
 add, edit, and delete tasks.
 
+![1703055752140](https://github.com/rishabhmaindola/InnovixionTech-Dec16NOTES_APP/assets/143874827/313a2f68-6c01-41c8-a3eb-66448ac4a4e0)
+
+
 ## Available Scripts
 
 In the project directory, you can run:

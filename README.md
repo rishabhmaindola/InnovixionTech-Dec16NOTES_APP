@@ -1,7 +1,7 @@
 # Innovixion Tech(Task 1)Online-Notes-Taking-App
 Try For Yourself:- https://innovixion-tech-dec16-notes-app.vercel.app/
 
-a simple to-do list
+A simple to-do list
 application using JS frameworks and
 Database. Users should be able to
 add, edit, and delete tasks.

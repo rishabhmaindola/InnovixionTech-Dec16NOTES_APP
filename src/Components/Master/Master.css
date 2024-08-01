@@ -1,0 +1,29 @@
+.master-container {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.master-container a {
+    color: black;
+}
+
+.master-controls {
+    width: 30%;
+    padding: 10px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    border-radius: 50px;
+}
+
+.master-help {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}

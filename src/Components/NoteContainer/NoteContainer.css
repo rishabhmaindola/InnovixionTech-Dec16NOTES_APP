@@ -1,15 +1,17 @@
 .note-container {
-    height: 100%;
+  width: 100%;
+  height: 92%;
+}
+
+/* .note-container h2 {
+    margin-bottom: 10px;
   }
-  
-  .note-container h2 {
-    margin-bottom: 20px;
-  }
-  
-  .note-container_notes {
-    height: 90%;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    overflow-y: scroll;
-  }
+  */
+.note-container_notes {
+  height: 100%;
+  padding: 0px 10px 0px 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  overflow-y: scroll;
+}

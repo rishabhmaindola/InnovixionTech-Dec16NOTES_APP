@@ -1,6 +1,8 @@
 .sidebar {
     display: flex;
     flex-direction: column;
+    padding-top: 10px ;
+    padding-left: 5px ;
     gap: 40px;
   }
   
@@ -16,6 +18,10 @@
     align-items: center;
     height: 0;
     transition: 300ms;
+  }
+
+  .sidebar_list li {
+    cursor: pointer;
   }
   
   .sidebar_list_active {
